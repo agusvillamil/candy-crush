@@ -11,7 +11,7 @@ Move the cursor with the arrow keys and swap candies with W, A, S and D. It need
 ## Authors
 
 - Martin Agnello
-- Maxi Fernandez
+- Maximo Fernandez
 - Agustín Villamil
 
 ## About this repository
